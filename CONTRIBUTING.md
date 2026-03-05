@@ -15,6 +15,8 @@ YTponzu の全リポジトリに適用される開発ルールです。
 | ファイル | 内容 |
 |----------|------|
 | [docs/GITHUB.md](docs/GITHUB.md) | ブランチ戦略・コミット規約・PRルール |
+| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | アーキテクチャ選定ガイド・テンプレート |
+| [docs/DESIGN.md](docs/DESIGN.md) | デザインツール・Figma運用・Storybook判断基準 |
 
 ## 開発フロー
 
